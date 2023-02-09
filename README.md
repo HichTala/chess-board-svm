@@ -1,1 +1,1 @@
-# chess_board_svm
+# SVM on a specific dataset looking like a chess board
